@@ -1,8 +1,6 @@
  /*
    	Assignment 4
-	Name : Mangesh Dattatray Virkar
-	Matrikel-Nr: 425891
-	E-mail ID: mangeshvirkar95@gmail.com , huc84mof@rhrk.uni-kl.de
+	Name : Mangesh
 	
 Programme has been written for the same problem statement as of Assignment no 2 by using Class and Object and making each function as a seperate header file. 
 
